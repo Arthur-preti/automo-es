@@ -19,7 +19,7 @@ pyautogui.press("Enter")
 #passo 2: fazer login
 time.sleep(0.5)
 pyautogui.click(891, 429)
-pyautogui.write("arthurpreti6@gmail.com")
+pyautogui.write("exemplo@gmail.com")
 pyautogui.press("Tab")
 pyautogui.write('arthurbacana')
 pyautogui.click(960, 591)
